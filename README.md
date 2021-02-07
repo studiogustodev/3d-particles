@@ -24,3 +24,20 @@
 - [Three.js Foundamentals](https://threejsfundamentals.org/)
 - [WebGL Foundamentals](https://webglfundamentals.org/)
 - [Three Journey](https://threejs-journey.xyz/)
+
+---
+
+### 📝 Vertex Shader Sample
+``` 
+void main() {
+   vec4 worldPosition = modelMatrix * vec4( position, 1.0 );
+   gl_Position = projectionMatrix * viewMatrix * worldPosition;
+}
+```
+
+### 📝 Fragment Shader Sample
+``` 
+void main() {
+ gl_FragColor = vec4(1.0, 1.0, 1.0, 1.0);
+}
+```
