@@ -4,8 +4,8 @@
 ---
 ## Requirements
 Make sure you have [Node.js](https://nodejs.org/it/) installed on your machine.
-- Required minimum Node version: 10
-- Required minimum NPM version: 6.4.1
+- Required minimum Node version: at least 10
+- Required minimum NPM version: at least 6
 
 Download and install [Blender](https://www.blender.org/)
 - Required minimum Blender versione: 2.91.2
