@@ -47,7 +47,6 @@ that will open a new window on your browser http://localhost:8080/
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Three.js Foundamentals](https://threejsfundamentals.org/)
 - [WebGL Foundamentals](https://webglfundamentals.org/)
-- [Three Journey](https://threejs-journey.xyz/)
 
 ---
 
