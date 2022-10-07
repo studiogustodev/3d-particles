@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "parcel serve src/index.html --port 8081 --open",
+    "start": "parcel serve src/index.html --port 8080 --open",
     "build": "rm -rf ./dist; parcel build src/index.html --public-url '.' --no-source-maps"
   },
   "devDependencies": {
